@@ -1,4 +1,4 @@
-# Welcome to Gaming-Lair Website! Ver: [DEV]1.4
+# Welcome to Gaming-Lair Website! Ver: [DEV]1.4.2-RELEASE
 
 Gaming Lair is a Minecraft network that is currently **OFFLINE**! Join our [**Discord server here!**](http://www.gaminglair.net/join)
 
